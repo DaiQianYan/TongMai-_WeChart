@@ -1,2 +1,2 @@
-# TongMai-_WeChart
+# TongMai_WeChart
 WeChart for TongMai
